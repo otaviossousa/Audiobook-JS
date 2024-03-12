@@ -4,4 +4,4 @@
 
 ### Link
 
-  https://otavio-sousa.github.io/Audiobook-JS/
+  https://otaviossousa.github.io/Audiobook-JS/
